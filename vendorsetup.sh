@@ -69,6 +69,7 @@ toro
 toroplus
 urushi
 v500
+vigor
 ville
 vs980
 yuga
