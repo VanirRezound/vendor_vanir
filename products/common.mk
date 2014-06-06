@@ -274,8 +274,8 @@ PRODUCT_PACKAGES += \
     utility_unpackbootimg
 PRODUCT_COPY_FILES += \
     vendor/vanir/proprietary/common/etc/init.d/0000kernelassimilator:system/etc/init.d/0000kernelassimilator \
-    vendor/vanir/proprietary/common/etc/kernelassimilator.d/00bootclasspath:system/etc/kernelassimilator.d/00bootclasspath \
-    vendor/vanir/config/permissions/com.tmobile.software.themes.xml:system/etc/permissions/com.tmobile.software.themes.xml
+    vendor/vanir/proprietary/common/etc/kernelassimilator.d/00bootclasspath:system/etc/kernelassimilator.d/00bootclasspath 
+#    vendor/vanir/config/permissions/com.tmobile.software.themes.xml:system/etc/permissions/com.tmobile.software.themes.xml
 
 -include vendor/cyngn/product.mk
 
